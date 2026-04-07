@@ -6,5 +6,6 @@ db.tasks.insertMany([
   { id: 3, name: 'Read a book', status: 'pending' },
   { id: 4, name: 'Write report', status: 'done' },
   { id: 5, name: 'Call dentist', status: 'pending' },
-  { id: 6, name: 'Fix the bug', status: 'done' }
+  { id: 6, name: 'Fix the bug', status: 'done' },
+  { id: 7, name: 'Tea', status: 'pending' }
 ]);
